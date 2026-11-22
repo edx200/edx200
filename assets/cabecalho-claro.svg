@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Eduardo Pereira, desenvolvedor rumo a segurança de aplicações">
+  <rect width="1200" height="300" rx="20" fill="#F5F3EE"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="#DCD7CC"/>
+  <circle cx="64" cy="70" r="6" fill="#BE3A1C"/>
+  <text x="82" y="76" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#87847C" letter-spacing=".5">Desenvolvedor · Segurança de aplicações · Brasília-DF</text>
+  <text x="58" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="92" fill="#17171A" letter-spacing="-2">Eduardo Pereira</text>
+  <text x="62" y="230" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#54524D">Fui garçom. Hoje mantenho em produção o sistema de dois</text>
+  <text x="62" y="266" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#54524D">restaurantes do DF, rumo à <tspan font-style="italic" fill="#BE3A1C">segurança de aplicações.</tspan></text>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="15">
+    <rect x="862" y="40" width="300" height="150" rx="12" fill="#FFFFFF" stroke="#DCD7CC"/>
+    <circle cx="884" cy="62" r="4" fill="#DCD7CC"/><circle cx="898" cy="62" r="4" fill="#DCD7CC"/><circle cx="912" cy="62" r="4" fill="#DCD7CC"/>
+    <text x="930" y="67" fill="#87847C" font-size="13">resumo.txt</text>
+    <line x1="862" y1="82" x2="1162" y2="82" stroke="#DCD7CC"/>
+    <circle cx="886" cy="106" r="4.5" fill="#1E8449"/>
+    <text x="898" y="111" fill="#1E8449">disponível</text>
+    <text x="882" y="139" fill="#54524D">estágio ou júnior</text>
+    <text x="882" y="167" fill="#54524D">dev · AppSec · remoto/DF</text>
+  </g>
+</svg>
